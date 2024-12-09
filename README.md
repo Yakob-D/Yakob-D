@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Front-End and Back-End projects
 - 📫 How to reach me @dibabuyakob@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love playing piano and making music
+- ⚡ Fun fact: I love playing piano and basketball
 
 <!---
 Yakob-D/Yakob-D is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
