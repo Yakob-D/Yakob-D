@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Yakob-D
+- 👋 Hi, I’m Yakob Dibabu
 - 👀 I’m interested in Back-End Development, and Artificial Intelligence
-- 🌱 I’m currently learning Back-End Development with Python
+- 🌱 I’m currently learning Flutter Development
 - 💞️ I’m looking to collaborate on Back-End projects
 - 📫 How to reach me @dibabuyakob@gmail.com
 - 😄 Pronouns: He/Him
